@@ -8,9 +8,9 @@ Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic:
 
 El mòduls que he fet són:
 - [M01: Sistemes Informàtics](https://github.com/robertoferrero/Portfoli_/tree/main/Moduls/M01-SistemesInformatics)
-- M02
-- M03
-- M04
-- FOL
-- EiE
+- [M02: Bases de dades](https://github.com/robertoferrero/Portfoli_/tree/main/Moduls/M02-BasesDeDades)
+- [M03: Programació](https://github.com/robertoferrero/Portfoli_/tree/main/Moduls/M03-Programacio)
+- [M04: Llenguatges de marques](https://github.com/robertoferrero/Portfoli_/tree/main/Moduls/M04-LlenguatgesDeMarques)
+- [M12: FOL](https://github.com/robertoferrero/Portfoli_/tree/main/Moduls/M12-FOL)
+- [M13: EiE](https://github.com/robertoferrero/Portfoli_/tree/main/Moduls/M13-EiE)
 
