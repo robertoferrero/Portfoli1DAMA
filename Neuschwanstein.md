@@ -24,8 +24,7 @@ So it isn't a Medieval castle at all, but a 19th century facsimile; not a defens
 
 No knights ever lived here.
 
-![https://pbs.twimg.com/media/FrjQZcZXgAAuDl5.jpg](https://pbs.twimg.com/media/FrjQZcZXgAAuDl5.jpg)
-
+<img src="https://pbs.twimg.com/media/FrjQZcZXgAAuDl5.jpg" width="800">
 </aside>
 
 <aside>
