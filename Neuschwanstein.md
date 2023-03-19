@@ -14,7 +14,7 @@ But it isn't a real castle: it has central heating, hot water, flushing toilets,
 Because Neuschwanstein is actually the world's biggest work of fan fiction...
 
 ![https://pbs.twimg.com/media/Frjp9x2WwAAOdtQ.jpg](https://pbs.twimg.com/media/Frjp9x2WwAAOdtQ.jpg)
-<img src="https://pbs.twimg.com/media/Frjp9x2WwAAOdtQ.jpg" width="300">
+<img src="https://pbs.twimg.com/media/Frjp9x2WwAAOdtQ.jpg" width="500">
 </aside>
 
 <aside>
