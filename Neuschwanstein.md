@@ -32,7 +32,6 @@ Why did Ludwig build Neuschwanstein?
 
 Well, Ludwig was an eccentric king. He came to the throne in 1864 and took no interest in politics. He left the business of running the state to his cabinet of ministers and spent all his time on the things he truly cared about.
 
-![https://pbs.twimg.com/media/FrjVOeDWcAASD0M.jpg](https://pbs.twimg.com/media/FrjVOeDWcAASD0M.jpg)
 <img src="https://pbs.twimg.com/media/FrjVOeDWcAASD0M.jpg" width="500">
 </aside>
 
@@ -42,7 +41,6 @@ What interested Ludwig was art, literature, architecture, poetry, and music; it 
 
 In his solitude he turned to art.
 
-![https://pbs.twimg.com/media/FrjQ0N0XsAEYlwC.jpg](https://pbs.twimg.com/media/FrjQ0N0XsAEYlwC.jpg)
 <img src="https://pbs.twimg.com/media/FrjQ0N0XsAEYlwC.jpg" width="800">
 </aside>
 
@@ -51,8 +49,7 @@ It was near this castle, nestled in the leafy mountains of southern Bavaria, tha
 
 But where did he get all these fanciful ideas?
 
-![https://pbs.twimg.com/media/FrjVRuNWwAA2sDI.jpg](https://pbs.twimg.com/media/FrjVRuNWwAA2sDI.jpg)
-
+<img src="https://pbs.twimg.com/media/FrjVRuNWwAA2sDI.jpg" width="800">
 </aside>
 
 <aside>
