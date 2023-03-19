@@ -7,7 +7,7 @@ Tweet Link: https://twitter.com/culturaltutor/status/1637319207447588864
 Type: Thread
 
 <aside>
-<img src="https://pbs.twimg.com/profile_images/1524409613558464513/GeaYexsJ_400x400.jpg" alt="https://pbs.twimg.com/profile_images/1524409613558464513/GeaYexsJ_400x400.jpg" width="40px" /> **The Cultural Tutor [*@culturaltutor:*](https://www.twitter.com/culturaltutor)**
+**The Cultural Tutor [*@culturaltutor:*](https://www.twitter.com/culturaltutor)**
 Neuschwanstein Castle in Germany is one of the world's most famous and beautiful castles.
 
 But it isn't a real castle: it has central heating, hot water, flushing toilets, telephones, and elevators.
@@ -19,7 +19,6 @@ Because Neuschwanstein is actually the world's biggest work of fan fiction...
 </aside>
 
 <aside>
-<img src="https://pbs.twimg.com/profile_images/1524409613558464513/GeaYexsJ_400x400.jpg" alt="https://pbs.twimg.com/profile_images/1524409613558464513/GeaYexsJ_400x400.jpg" width="40px" /> **The Cultural Tutor [*@culturaltutor:*](https://www.twitter.com/culturaltutor)**
 Neuschwanstein Castle was started in 1869 by King Ludwig II of Bavaria (and never finished).
 
 So it isn't a Medieval castle at all, but a 19th century facsimile; not a defensive fortification but a residential palace for a king.
