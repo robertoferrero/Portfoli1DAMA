@@ -7,7 +7,6 @@ Tweet Link: https://twitter.com/culturaltutor/status/1637319207447588864
 Type: Thread
 
 <aside>
-**The Cultural Tutor [*@culturaltutor:*](https://www.twitter.com/culturaltutor)**
 Neuschwanstein Castle in Germany is one of the world's most famous and beautiful castles.
 
 But it isn't a real castle: it has central heating, hot water, flushing toilets, telephones, and elevators.
@@ -15,7 +14,7 @@ But it isn't a real castle: it has central heating, hot water, flushing toilets,
 Because Neuschwanstein is actually the world's biggest work of fan fiction...
 
 ![https://pbs.twimg.com/media/Frjp9x2WwAAOdtQ.jpg](https://pbs.twimg.com/media/Frjp9x2WwAAOdtQ.jpg)
-
+<img src="https://pbs.twimg.com/media/Frjp9x2WwAAOdtQ.jpg" width="300">
 </aside>
 
 <aside>
